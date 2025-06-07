@@ -61,9 +61,11 @@ Cuando haya funcionado el display te mandará las siguientes imagenes en retardo
 
 ![image](https://github.com/user-attachments/assets/7e75fc06-edc7-40ea-a31a-68f6f0c3c879)
 
+![image](https://github.com/user-attachments/assets/ade855c6-b3fb-4d27-bd10-e354c64711d2)
 
+## Créditos
+Desarrollado por Irving Cardoso estudiante de Ingeniería Mecánica
 
-
-
+https://github.com/IrvingM10/Practica-ESP32-con-sensor-DHT22-y-ultras-nico-LCD-/edit/main/README.md
 
 
