@@ -39,5 +39,18 @@ https://wokwi.com/
 
 3.Hacer la conexión como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/42d21873-4e80-4edb-b20b-e7951cddbdd7)
+
+## Instrucciones de operacion
+
+1.Iniciar el simulador
+
+2.Visualizar los datos en la LCD
+
+3.Colocar la distancia o temperatura y humedad relativa dando doble click en el sensor ultrasonico o en el sensor DHT22 respectivamente
+
+## Resultados
+
+Cuando haya funcionado el display te mandará las siguientes imagenes en retardos de dos segundos
 
 
