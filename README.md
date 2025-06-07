@@ -35,4 +35,9 @@ https://wokwi.com/
 
 2.Instalar las librerías DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguiente imagen
 
+![image](https://github.com/user-attachments/assets/f48280f6-76bb-4aac-8bd7-de8a14478b06)
+
+3.Hacer la conexión como se muestra en la siguiente imagen
+
+
 
