@@ -29,4 +29,7 @@ https://wokwi.com/
 
 ![image](https://github.com/user-attachments/assets/9e9f8dc7-db6f-431a-b97a-cfcff9a9f06a)
 
+![image](https://github.com/user-attachments/assets/8a166032-861d-447a-951b-62ac266d16e9)
+
+
 
